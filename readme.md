@@ -1,6 +1,10 @@
+<h3><b>Admission_crud_laravel<.b></h3>
+
 Admission_crud_laravel project as its name dignifies it is a CRUD application created using Laravel web framework.
 
 To run the project on your system, please follow the below mentioned steps:
+
+<h3><b>Steps to run project:</b></h3>
 
 1. Clone the project in your directory where your keep your laravel project. "htdocs" in case of Windows & "html" folder in case of Ubuntu.
 
