@@ -1,4 +1,4 @@
-<h3><b>Admission_crud_laravel<.b></h3>
+<h3><b>Admission_crud_laravel<b></h3>
 
 Admission_crud_laravel project as its name dignifies it is a CRUD application created using Laravel web framework.
 
